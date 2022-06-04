@@ -1,13 +1,11 @@
-# Lebenslauf
-
-## Robert Reuschel
+# Robert Reuschel
 
 Full-Stack Designer
 
-### Stationen
+## Stationen
 
 tbc
 
-### Zertifikate
+## Zertifikate
 
 tbc
