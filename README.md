@@ -7,5 +7,4 @@ Full-Stack Designer
 tbc
 
 ## Zertifikate
-
 tbc
