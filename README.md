@@ -9,15 +9,17 @@ Interdisziplimäre Zusammenarbeit mit diversen Fachabteilungen, Stakeholdern und
 
 Rollen:
 - ProductOwner/ScrumMaster einer Komponentenbibliothek auf Basis von React
-- Aufbau eines Internationalen Entwikclerteams
-- Veranwortung für die UX der Neuentwicklungen
-- Eigenverantwortliche erstellung von Protoytpen in diversen Stufen
-- Verantwortung UI für sämtliche Neuentwicklungen
+- verantwortlich für den Aufbau eines Internationalen Entwicklerteams
+- Veranwortung für die UX & UI sämtlicher Neuentwicklungen von Prototyp bis Auslieferung
+- Eigenverantwortliche Erstellung von Protoytpen in diversen Stufen
 - Ausarbeitung von Produktvisionen
-- Ansprechpartner POs: Prototypen, Best Practice,...
-- Ansprechpartner DEV: SASS/gulp/HTML/UI/UX
-- Ansprechpartner Marketing: Relaunch/StyleGuide/Web
+- Ansprechpartner für POs *Prototypen, Best Practice,...*
+- Ansprechpartner DEV *SASS, HTML, UI, UX, ...*
+- Ansprechpartner Marketing *Relaunch, StyleGuide, Webentwicklung, ...*
 
 
 ## Zertifikate
-tbc
+
+- UXQB Certified Professional for Usability and User Experience *Foundation Level* @OOSE
+- IHK Web Business Manager @GfN
+- IHK Web Designer @GfN
