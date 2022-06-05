@@ -1,6 +1,4 @@
-# Robert Reuschel
-
-Full-Stack Designer
+# Das bin ich!
 
 ## Stationen
 
