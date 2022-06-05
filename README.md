@@ -4,7 +4,8 @@ Full-Stack Designer
 
 ## Stationen
 
-tbc
+**Full-Stack Designer** für Hamburger Pensionsverwaltung
+*seit 11/2019*
 
 ## Zertifikate
 tbc
