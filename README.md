@@ -35,12 +35,28 @@ Webpräsentationen
 - Abstimmung mit externen Dienstleisterm
 - Erstellung von Styleguides und Kontrolle deren Verwendung
 
+**Mediengestalter** @Mediaface GmbH <br>
+*03/2012 - 11/2013*
+
+Frontenddesign für Softwareprodukte, Pflege von Webauftritten und die Einführung 
+eines Database Publishing-Systems
+
+- Verantwortung für User Experience und Usability der Softwareprodukte und 
+Webpräsentationen
+- eigenständige Konzeption von Features
+- Erstellung von Mock-ups, Wireframes & Klickdummies
+- Frontenddesign
+- Webdesign
+- Database Publishing
+- Analyse und Optimierung bestehender Lösungen
+
 *...Fortsetzung folgt*
 
 ## Tools
 - IntelliJ
 - Adobe XD, Photoshop, Indesign, Illustrator
-- 
+- HTML5
+- SASS/SCSS
 
 ## Zertifikate
 
