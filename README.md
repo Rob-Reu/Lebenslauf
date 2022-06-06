@@ -86,7 +86,7 @@ Unterstützung einer klassischen Marketingabteilung
 - Produktfotografie
 - Gestaltung von Messeständen
 
-**Mediengestalter Digital & Print** @3N-Mobile / 3N-Media <br>
+**Mediengestalter Digital & Print** @[3N-Mobile / 3N-Media](https://3n-media.de/) <br>
 *07/2009 - 11/2009*
 
 Eigenständige Produktionen von Fernsehbeiträgen
