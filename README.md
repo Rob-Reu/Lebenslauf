@@ -98,13 +98,12 @@ Eigenständige Produktionen von Fernsehbeiträgen
 *09/2006 - 06/2009*
 
 Überbetriebliche Ausbildung mit begleitenden Praktika <br>
-  _09/2007 - 07/2009_ @3N-Mobile / 3N-Media
+- _09/2007 - 07/2009_ @3N-Mobile / 3N-Media
     - Video- & Audioaufname
     - Schnitt und Bearbeitung
     - Fotografie
     - Erstellung von 3D-Animationen
-
-  _01/2007 - 08/2007_ @Schulz Werbung
+ - _01/2007 - 08/2007_ @Schulz Werbung
     - Werbetechnik
     - Erstellung von Marketingmaterial
     - Erstellung von Außenwerbung
