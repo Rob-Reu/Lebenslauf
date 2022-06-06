@@ -84,7 +84,7 @@ Unterstützung einer klassischen Marketingabteilung
 - Produktfotografie
 - Gestaltung von Messeständen
 
-**Mediengestalter Digital & Print** @3N Mobile <br>
+**Mediengestalter Digital & Print** @3N-Mobile / 3N-Media <br>
 *07/2009 - 11/2009*
 
 Eigenständige Produktionen von Fernsehbeiträgen
@@ -94,6 +94,21 @@ Eigenständige Produktionen von Fernsehbeiträgen
 - Fotografie
 - Erstellung von 3D-Animationen
 
+**Mediengestalter für Digital- und Printmedien Fachrichtung Gestaltung und Technik** @BerufsBildungWerk Greifswald <br>
+*09/2006 - 06/2009*
+
+Überbetriebliche Ausbildung mit begleitenden Praktika
+  _09/2007 - 07/2009_ @3N-Mobile / 3N-Media
+    - Video- & Audioaufname
+    - Schnitt und Bearbeitung
+    - Fotografie
+    - Erstellung von 3D-Animationen
+
+  _01/2007 - 08/2007_ @Schulz Werbung
+    - Werbetechnik
+    - Erstellung von Marketingmaterial
+    - Erstellung von Außenwerbung
+    
 ## Tools
 - IntelliJ
 - Adobe XD, Photoshop, Indesign, Illustrator
