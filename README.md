@@ -9,7 +9,7 @@ Interdisziplimäre Zusammenarbeit mit diversen Fachabteilungen, Stakeholdern und
 
 - ProductOwner & ScrumMaster einer internen Komponentenbibliothek auf Basis von React
 - verantwortlich für den Aufbau eines internationalen Entwicklerteams
-- Verantwortung UX & UI sämtlicher Neuentwicklungen *von Prototyp bis Auslieferung*
+- Verantwortung UX & UI sämtlicher Neuentwicklungen *(von Prototyp bis Auslieferung)*
 - eigenverantwortliche Erstellung von Protoytpen in diversen Stufen
 - Entwicklung von Produktvisionen
 - Schaffung von technischen Grundlagen für neue Produkte
@@ -97,7 +97,8 @@ Eigenständige Produktionen von Fernsehbeiträgen
 - Fotografie
 - Erstellung von 3D-Animationen
 
-**Mediengestalter für Digital- und Printmedien Fachrichtung Gestaltung und Technik** @[BerufsBildungsWerk Greifswald](https://www.bbw-greifswald.de/) <br>
+**Mediengestalter für Digital- und Printmedien**
+**Fachrichtung Gestaltung und Technik** @[BerufsBildungsWerk Greifswald](https://www.bbw-greifswald.de/) <br>
 *09/2006 - 06/2009*
 
 Überbetriebliche Ausbildung mit begleitenden Praktika <br>
