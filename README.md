@@ -13,6 +13,7 @@ Interdisziplimäre Zusammenarbeit mit diversen Fachabteilungen, Stakeholdern und
 - eigenverantwortliche Erstellung von Protoytpen in diversen Stufen
 - Entwicklung von Produktvisionen
 - Schaffung von technischen Grundlagen für neue Produkte
+- Erstellung von Code-Konventionen
 - Entwicklung von Webportalen
 - Unterstützung und Beratung für unterschiedliche Web-Projekte
 - Beratung bei der Erstellung von Styleguides
@@ -96,28 +97,32 @@ Eigenständige Produktionen von Fernsehbeiträgen
 - Fotografie
 - Erstellung von 3D-Animationen
 
-**Mediengestalter für Digital- und Printmedien Fachrichtung Gestaltung und Technik** @BerufsBildungsWerk Greifswald <br>
+**Mediengestalter für Digital- und Printmedien Fachrichtung Gestaltung und Technik** @[BerufsBildungsWerk Greifswald](https://www.bbw-greifswald.de/) <br>
 *09/2006 - 06/2009*
 
 Überbetriebliche Ausbildung mit begleitenden Praktika <br>
-- _09/2007 - 07/2009_ @3N-Mobile / 3N-Media
+- _09/2007 - 07/2009_ @[3N-Mobile / 3N-Media](https://3n-media.de/)
     - Video- & Audioaufname
     - Schnitt und Bearbeitung
     - Fotografie
     - Erstellung von 3D-Animationen
- - _01/2007 - 08/2007_ @Schulz Werbung
+ - _01/2007 - 08/2007_ @[Schulz Werbung](https://www.schulzwerbung.com/)
     - Werbetechnik
     - Erstellung von Marketingmaterial
     - Erstellung von Außenwerbung
     
 ## Tools
 - IntelliJ
-- Adobe XD, Photoshop, Indesign, Illustrator
+- Github, SonarCube
+- Jira & Confluence
+- Adobe XD, Photoshop, Indesign & Illustrator
 - HTML5
 - SASS/SCSS
+- Bootstrap, fontawesome, ChakraUI
+- InBetween
 
 ## Zertifikate
 
-- UXQB Certified Professional for Usability and User Experience *Foundation Level* @OOSE
-- IHK Web Business Manager @GfN
-- IHK Web Designer @GfN
+- 03/2020 - [UXQB CPUX-F](https://uxqb.org/de/zertifizierung/basiszertifizierung-cpux-f/) Certified Professional for Usability and User Experience @[OOSE](https://www.oose.de/seminar/usability-and-user-experience-gestalten/?highlight=CPUX-F)
+- 03/2011 - IHK Web Business Manager @[GfN](https://www.gfn.de/)
+- 03/2011 - IHK Web Designer @[GfN](https://www.gfn.de/)
