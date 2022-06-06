@@ -7,15 +7,17 @@
 
 Interdisziplimäre Zusammenarbeit mit diversen Fachabteilungen, Stakeholdern und ProductOwnern zur Schaffung einer einheitlichen Softwarebasis.
 
-Rollen:
-- ProductOwner & ScrumMaster einer Komponentenbibliothek auf Basis von React
+- ProductOwner & ScrumMaster einer internen Komponentenbibliothek auf Basis von React
 - verantwortlich für den Aufbau eines internationalen Entwicklerteams
-- Veranwortung UX & UI sämtlicher Neuentwicklungen *von Prototyp bis Auslieferung*
+- Verantwortung UX & UI sämtlicher Neuentwicklungen *von Prototyp bis Auslieferung*
 - eigenverantwortliche Erstellung von Protoytpen in diversen Stufen
-- Ausarbeitung von Produktvisionen
-- Ansprechpartner für POs *Prototypen, Best Practice,...*
-- Ansprechpartner DEV *SASS, HTML, UI, UX, ...*
-- Ansprechpartner Marketing *Relaunch, StyleGuide, Webentwicklung, ...*
+- Entwicklung von Produktvisionen
+- Schaffung von technischen Grundlagen für neue Produkte
+- Entwicklung von Webportalen
+- Unterstützung und Beratung für unterschiedliche Web-Projekte
+- Beratung bei der Erstellung von Styleguides
+- stetiger Ansprechpartner für die Entwickler unterschiedlicher Projekte für SASS, HTML5, UI und Usability
+- permanente Zusammenarbeit mit POs unterschiedlicher Projekte für UX, Usability, Planung, Erstellung von Produktvisionen und Prototypen
 
 **Full-Stack Designer** @Mediaform Informationssysteme GmbH <br>
 *11/2013 - 11/2019*
