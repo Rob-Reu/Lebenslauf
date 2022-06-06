@@ -1,6 +1,6 @@
 # Das bin ich!
 
-## Stationen
+### Werdegang
 
 **Full-Stack Designer** @Hamburger Pensionsverwaltung <br>
 *seit 11/2019*
@@ -35,7 +35,7 @@ Webpräsentationen
 - Abstimmung mit externen Dienstleisterm
 - Erstellung von Styleguides und Kontrolle deren Verwendung
 
-**Mediengestalter** @Mediaface GmbH <br>
+**Mediengestalter Digital & Print** @Mediaface GmbH <br>
 *03/2012 - 11/2013*
 
 Frontenddesign für Softwareprodukte, Pflege von Webauftritten und die Einführung 
@@ -50,7 +50,49 @@ Webpräsentationen
 - Database Publishing
 - Analyse und Optimierung bestehender Lösungen
 
-*...Fortsetzung folgt*
+**Mediengestalter Digital & Print** @Schmidts TIVOLI GmbH <br>
+*11/2011 - 03/2012*
+
+Unterstützung einer klassischen Marketingabteilung
+
+- Erstellung von Marketingmaterial
+- Contentpflege für die Webpräsenz
+- Fotografie
+- Schaffung eines Lagersystems für Marketingmaterial
+
+**Mediengestalter Digital** @Portalis Group <br>
+*03/2011 - 11/2011*
+
+Trainee im Bereich Webdesign für moebel.de & kabs.de
+
+• Frontenddesign und Abnahme der Umsetzung
+• Code-Review und Erstellung von Templates
+• Zusammenarbeit mit Entwicklungsabteilung im Ausland
+
+**Web Business Manager & Web Designer** @GFN AG
+*12/2010 - 03/2011*
+
+Fortbildung zum Web Business Manager & Web Designer
+
+**Mediengestalter Digital & Print** @DC Dental Central <br>
+*11/2009 - 09/2010*
+
+Unterstützung einer klassischen Marketingabteilung
+
+- Erstellung von Marketingmaterial
+- Katalogerstellung
+- Produktfotografie
+- Gestaltung von Messeständen
+
+**Mediengestalter Digital & Print** @3N Mobile <br>
+*07/2009 - 11/2009*
+
+Eigenständige Produktionen von Fernsehbeiträgen
+
+- Video- & Audioaufname
+- Schnitt und Bearbeitung
+- Fotografie
+- Erstellung von 3D-Animationen
 
 ## Tools
 - IntelliJ
