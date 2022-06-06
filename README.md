@@ -19,7 +19,7 @@ Interdisziplimäre Zusammenarbeit mit diversen Fachabteilungen, Stakeholdern und
 - stetiger Ansprechpartner für die Entwickler unterschiedlicher Projekte für SASS, HTML5, UI und Usability
 - permanente Zusammenarbeit mit POs unterschiedlicher Projekte für UX, Usability, Planung, Erstellung von Produktvisionen und Prototypen
 
-**Full-Stack Designer** @Mediaform Informationssysteme GmbH <br>
+**Full-Stack Designer** @[Mediaform Informationssysteme GmbH ](https://www.mediaform.de/)<br>
 *11/2013 - 11/2019*
 
 Jahrelange Zusammenarbeit mit diversen Abteilungen in der Unternehmensgruppe, 
@@ -37,7 +37,7 @@ Webpräsentationen
 - Abstimmung mit externen Dienstleisterm
 - Erstellung von Styleguides und Kontrolle deren Verwendung
 
-**Mediengestalter Digital & Print** @Mediaface GmbH <br>
+**Mediengestalter Digital & Print** @[Mediaface GmbH](https://www.mediaface.de) <br>
 *03/2012 - 11/2013*
 
 Frontenddesign für Softwareprodukte, Pflege von Webauftritten und die Einführung 
@@ -52,7 +52,7 @@ Webpräsentationen
 - Database Publishing
 - Analyse und Optimierung bestehender Lösungen
 
-**Mediengestalter Digital & Print** @Schmidts TIVOLI GmbH <br>
+**Mediengestalter Digital & Print** @[Schmidts TIVOLI GmbH](https://www.tivoli.de/) <br>
 *11/2011 - 03/2012*
 
 Unterstützung einer klassischen Marketingabteilung
@@ -62,7 +62,7 @@ Unterstützung einer klassischen Marketingabteilung
 - Fotografie
 - Schaffung eines Lagersystems für Marketingmaterial
 
-**Mediengestalter Digital** @Portalis Group <br>
+**Mediengestalter Digital** @[Portalis](https://www.portalis.com/) <br>
 *03/2011 - 11/2011*
 
 Trainee im Bereich Webdesign für moebel.de & kabs.de
