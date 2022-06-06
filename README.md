@@ -65,9 +65,9 @@ Unterstützung einer klassischen Marketingabteilung
 
 Trainee im Bereich Webdesign für moebel.de & kabs.de
 
-• Frontenddesign und Abnahme der Umsetzung
-• Code-Review und Erstellung von Templates
-• Zusammenarbeit mit Entwicklungsabteilung im Ausland
+- Frontenddesign und Abnahme der Umsetzung
+- Code-Review und Erstellung von Templates
+- Zusammenarbeit mit Entwicklungsabteilung im Ausland
 
 **Web Business Manager & Web Designer** @GFN AG
 *12/2010 - 03/2011*
@@ -97,7 +97,7 @@ Eigenständige Produktionen von Fernsehbeiträgen
 **Mediengestalter für Digital- und Printmedien Fachrichtung Gestaltung und Technik** @BerufsBildungWerk Greifswald <br>
 *09/2006 - 06/2009*
 
-Überbetriebliche Ausbildung mit begleitenden Praktika
+Überbetriebliche Ausbildung mit begleitenden Praktika <br>
   _09/2007 - 07/2009_ @3N-Mobile / 3N-Media
     - Video- & Audioaufname
     - Schnitt und Bearbeitung
