@@ -94,7 +94,7 @@ Eigenständige Produktionen von Fernsehbeiträgen
 - Fotografie
 - Erstellung von 3D-Animationen
 
-**Mediengestalter für Digital- und Printmedien Fachrichtung Gestaltung und Technik** @BerufsBildungWerk Greifswald <br>
+**Mediengestalter für Digital- und Printmedien Fachrichtung Gestaltung und Technik** @BerufsBildungsWerk Greifswald <br>
 *09/2006 - 06/2009*
 
 Überbetriebliche Ausbildung mit begleitenden Praktika <br>
