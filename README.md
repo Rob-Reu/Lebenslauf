@@ -7,13 +7,17 @@
 
 Interdisziplimäre Zusammenarbeit mit diversen Fachabteilungen, Stakeholdern und ProductOwnern zur Schaffung einer einheitlichen Softwarebasis.
 
-- ProductOwner & ScrumMaster einer internen Komponentenbibliothek auf Basis von React
-- verantwortlich für den Aufbau eines internationalen Entwicklerteams
+- Seit 08/2023: ProductOwner Talk-o-MAt 3000 - Cloud-Telefonie und SelfService mit Amazon Connect in Anbindung an das interne führende System
+- Seit 01/2023: stellvertrender ProductOwner Talk-o-MAt 3000 - Cloud-Telefonie und SelfService mit Amazon Connect in Anbindung an das interne führende System
+- 10/2021 - 09/2022 ProductOwner einer internen Komponentenbibliothek auf Basis von React
+  - verantwortlich für den Aufbau eines internationalen Entwicklerteams
+- seit 11/2019:
 - Verantwortung UX & UI sämtlicher Neuentwicklungen *(von Prototyp bis Auslieferung)*
+- Verantwortlich für systemseitige Layouts und Dokumentenerzeugung
 - eigenverantwortliche Erstellung von Protoytpen in diversen Stufen
 - Entwicklung von Produktvisionen
 - Schaffung von technischen Grundlagen für neue Produkte
-- Erstellung von Code-Konventionen
+- Erstellung von Code-Konventionen für das Frontend
 - Entwicklung von Webportalen
 - Unterstützung und Beratung für unterschiedliche Web-Projekte
 - Beratung bei der Erstellung von Styleguides
