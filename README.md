@@ -7,22 +7,34 @@
 
 Interdisziplimäre Zusammenarbeit mit diversen Fachabteilungen, Stakeholdern und ProductOwnern zur Schaffung einer einheitlichen Softwarebasis.
 
-- Seit 08/2023: ProductOwner Talk-o-MAt 3000 - Cloud-Telefonie und SelfService mit Amazon Connect in Anbindung an das interne führende System
-- Seit 01/2023: stellvertrender ProductOwner Talk-o-MAt 3000 - Cloud-Telefonie und SelfService mit Amazon Connect in Anbindung an das interne führende System
+- Seit 08/2023: ProductOwner Talk-o-MAt 3000
+  - Cloud-Telefonie und SelfService mit Amazon Connect
+  - Anbindung an das interne führende System
+  - Betreuung der Fachabteilung und Stakeholder
+  - Abstimmung neue Geschäftsprozesse
+  - Steuerung der Zusammenarbeit mit externen Dienstleistern
+  - Budgetplanung
+  - Versionsplanung
+- Seit 01/2023: stellvertrender ProductOwner Talk-o-MAt 3000:
+  - Betreuung der Fachabteilung und Stakeholder
+  - übernahme bestehender Geschäftsprozesse
+  - Steuerung der Zusammenarbeit mit externen Dienstleistern
+  - Versionsplanung
 - 10/2021 - 09/2022 ProductOwner einer internen Komponentenbibliothek auf Basis von React
   - verantwortlich für den Aufbau eines internationalen Entwicklerteams
+  - abschließende Eingliederung in das führende System
 - seit 11/2019:
-- Verantwortung UX & UI sämtlicher Neuentwicklungen *(von Prototyp bis Auslieferung)*
-- Verantwortlich für systemseitige Layouts und Dokumentenerzeugung
-- eigenverantwortliche Erstellung von Protoytpen in diversen Stufen
-- Entwicklung von Produktvisionen
-- Schaffung von technischen Grundlagen für neue Produkte
-- Erstellung von Code-Konventionen für das Frontend
-- Entwicklung von Webportalen
-- Unterstützung und Beratung für unterschiedliche Web-Projekte
-- Beratung bei der Erstellung von Styleguides
-- stetiger Ansprechpartner für die Entwickler unterschiedlicher Projekte für SASS, HTML5, UI und Usability
-- permanente Zusammenarbeit mit POs unterschiedlicher Projekte für UX, Usability, Planung, Erstellung von Produktvisionen und Prototypen
+  - Verantwortung UX & UI sämtlicher Neuentwicklungen *(von Prototyp bis Auslieferung)*
+  - Verantwortlich für systemseitige Layouts und Dokumentenerzeugung
+  - eigenverantwortliche Erstellung von Protoytpen in diversen Stufen
+  - Entwicklung von Produktvisionen
+  - Schaffung von technischen Grundlagen für neue Produkte
+  - Erstellung von Code-Konventionen für das Frontend
+  - Entwicklung von Webportalen
+  - Unterstützung und Beratung für unterschiedliche Web-Projekte
+  - Beratung bei der Erstellung von Styleguides
+  - stetiger Ansprechpartner für die Entwickler unterschiedlicher Projekte für SASS, HTML5, UI und Usability
+  - permanente Zusammenarbeit mit POs unterschiedlicher Projekte für UX, Usability, Planung, Erstellung von Produktvisionen und Prototypen
 
 **Full-Stack Designer** @[Mediaform Informationssysteme GmbH ](https://www.mediaform.de/)<br>
 *11/2013 - 11/2019*
