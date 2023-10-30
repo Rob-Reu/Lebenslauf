@@ -23,6 +23,10 @@ Interdisziplimäre Zusammenarbeit mit diversen Fachabteilungen, Stakeholdern und
 - 10/2021 - 09/2022 ProductOwner einer internen Komponentenbibliothek auf Basis von React
   - verantwortlich für den Aufbau eines internationalen Entwicklerteams
   - abschließende Eingliederung in das führende System
+- 11/2019 - 04/2019 Neuentwicklung Frontend Vorsorgeportal
+  - Erstellung von Prototypen in Abstimmung mit Stakeholdern
+  - Schaffung neuer techn. Struckturen im Frontend
+  - Schulung und Einarbeitung von Entwicklern in neuer Technologie
 - seit 11/2019:
   - Verantwortung UX & UI sämtlicher Neuentwicklungen *(von Prototyp bis Auslieferung)*
   - Verantwortlich für systemseitige Layouts und Dokumentenerzeugung
